@@ -29,9 +29,7 @@
   grid-template-columns: repeat(2, 1fr);
 }
 
-.column {
-  /* Add styles for the columns */
-}
+
 
 .container-about {
   text-align: center;
